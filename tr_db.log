@@ -1,0 +1,7 @@
+  CREATE_STREAM @0 {NAME:we T:Transactions SCOPE:uvm_test_top.e.a.seqr STREAM:656}
+  CREATE_STREAM @850 {NAME:re T:Transactions SCOPE:uvm_test_top.e.a.seqr STREAM:837}
+  CREATE_STREAM @1750 {NAME:red T:Transactions SCOPE:uvm_test_top.e.a.seqr STREAM:991}
+  CREATE_STREAM @2050 {NAME:wr T:Transactions SCOPE:uvm_test_top.e.a.seqr STREAM:1115}
+  CREATE_STREAM @3870 {NAME:rd T:Transactions SCOPE:uvm_test_top.e.a.seqr STREAM:1359}
+  CREATE_STREAM @4770 {NAME:wd T:Transactions SCOPE:uvm_test_top.e.a.seqr STREAM:1513}
+  CREATE_STREAM @5670 {NAME:wbrb T:Transactions SCOPE:uvm_test_top.e.a.seqr STREAM:1667}

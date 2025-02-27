@@ -1,0 +1,7 @@
+`include "write_data.sv"
+`include "read_data.sv"
+`include "write_read.sv"
+`include "writeb_readb.sv"
+`include "write_err.sv"
+`include "read_err.sv"
+`include "reset_data.sv"

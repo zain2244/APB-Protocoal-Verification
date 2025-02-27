@@ -1,0 +1,25 @@
+<session version="1.1" release="L-2016.06" timestp="2025-02-22 15:55:11 GMT">
+  <hvp>
+    <datadef>
+      <metdef name="Line" type="ratio" aggregator="average" builtin="1" />
+      <metdef name="Cond" type="ratio" aggregator="average" builtin="1" />
+      <metdef name="Toggle" type="ratio" aggregator="average" builtin="1" />
+      <metdef name="Group" type="percent" aggregator="average" builtin="1" />
+    </datadef>
+  </hvp>
+  <old_coverage>
+  <scope type="top" name="top">
+    <metric name="Line" value="49/66" />
+    <metric name="Cond" value="3/6" />
+    <metric name="Toggle" value="412/412" />
+    <metric name="Group" value="79.6296%" />
+  </scope>
+  <scope type="instance" name="top">
+  </scope>
+  <scope type="group" name="top">
+    <scope type="group" name="tb.aif::apb_covergroup">
+      <metric name="Group" value="79.6296%" />
+    </scope>
+  </scope>
+  </old_coverage>
+</session>
