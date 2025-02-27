@@ -10,4 +10,10 @@ This project implements a **Universal Verification Methodology (UVM) testbench**
 - **Waveform debugging and log analysis** using Synopsys VCS
 
 ## Repository Structure
- apb_verification/ ├── rtl/ # Source files (DUT) ├── testbench/ # Complete UVM Enviroment ├── sim/ # Simulation scripts and logs ├── coverage_report/ # Code coverage & functional Coverage ├── Makefile # Build and run automation ├── README.md
+ apb_protocoal_verification/
+ ├── rtl/ # Source files (DUT) 
+ ├── testbench/ # Complete UVM Enviroment 
+ ├── sim/ # Simulation scripts and logs 
+ ├── coverage_report/ # Code coverage & functional Coverage 
+ ├── Makefile # Build and run automation
+ ├── README.md
